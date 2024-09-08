@@ -24,21 +24,23 @@
 
 ### 🎮 **Pasiones:**
 
-Soy un fanático de la tecnología, siempre buscando nuevas formas de crear, mejorar, y optimizar. Me encanta trabajar tanto en el frontend como en el backend, y disfruto desafiándome a mí mismo con proyectos que me permitan aprender algo nuevo.
+Amante de la lectura y la musica clasica. Aprendiz eterno en la vida. Ser la mejor version de mi mismo cada día.
 
 ---
 
 ### 🌱 **Actualmente aprendiendo:**
 
-- Docker
-- Kubernetes
+- Kotlin
+- C#
 - TypeScript
 
 ---
 
 ### 📫 **Contacto:**
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-villalobos-b98741265/) o escribirme a [mi email personal] (mailto:juanjosevillalobos.19@gmail.com).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-villalobos-b98741265/) o escribirme a [mi email personal](mailto:juanjosevillalobos.19@gmail.com).
+
+
 
 <!--
 **JuanJoseVillalobos/JuanJoseVillalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
