@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan
 
-🎓 **Estudiante de Ingeniería** en la Facultad de Ingeniería de la UNJU.  
+🎓 **Estudiante de Ingeniería Informática** en la Facultad de Ingeniería de la UNJU.  
 💻 **Full Stack Developer Junior** con experiencia desde 2022 en el apasionante mundo de la programación.  
 🚀 **Siempre aprendiendo y mejorando** mis habilidades para estar al día con las últimas tecnologías.
 
