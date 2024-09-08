@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Juan
+# 👋 Hi! I'm Juan
 
-🎓 **Estudiante de Ingeniería Informática** en la Facultad de Ingeniería de la UNJU.  
-💻 **Full Stack Developer Junior** con experiencia desde 2022 en el apasionante mundo de la programación.  
-🚀 **Siempre aprendiendo y mejorando** mis habilidades para estar al día con las últimas tecnologías.
+🎓 **Computer Engineering Student** at "Universidad Nacional de Jujuy" (UNJu)
+💻 **Junior Full Stack Developer** with experience since 2022 in the exciting world of programming.  
+🚀 **Always learning and improving** my skills to stay updated with the latest technologies.
 
 ---
 
-### 🚀 **Tecnologías con las que trabajo:**
+### 🚀 **Technologies I work with:**
 
 - **Frontend**:  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,13 +22,13 @@
 
 ---
 
-### 🎮 **Pasiones:**
+### 🎮 **Passions:**
 
-Amante de la lectura y la musica clasica. Aprendiz eterno en la vida. Ser la mejor version de mi mismo cada día.
+Lover of reading and classical music. **Lifelong learner**. Striving to be the best version of myself every day.
 
 ---
 
-### 🌱 **Actualmente aprendiendo:**
+### 🌱 **Currently learning:**
 
 - Kotlin
 - C#
@@ -36,23 +36,6 @@ Amante de la lectura y la musica clasica. Aprendiz eterno en la vida. Ser la mej
 
 ---
 
-### 📫 **Contacto:**
+### 📫 **Contact:**
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-villalobos-b98741265/) o escribirme a [mi email personal](mailto:juanjosevillalobos.19@gmail.com).
-
-
-
-<!--
-**JuanJoseVillalobos/JuanJoseVillalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-villalobos-b98741265/) or write to me at [my personal email](mailto:juanjosevillalobos.19@gmail.com).
