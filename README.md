@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Juan
 
-🎓 **Computer Engineering Student** at UNJu.  
+🎓 **Computer Engineering Student** at Jala Univeristy
 💻 **Junior Full Stack Developer** with experience since 2022 in the exciting world of programming.  
 🚀 **Always learning and improving** my skills to stay updated with the latest technologies.
 
